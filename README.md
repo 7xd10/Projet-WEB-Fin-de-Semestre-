@@ -71,8 +71,9 @@ L'application a été développée en mettant l'accent sur la sécurité, intég
 
 1.  **Cloner le dépôt**
     ```bash
-    git clone [URL_DU_DEPOT] gestion_seances
-    cd gestion_seances/workflowapplication18
+    git clone https://github.com/7xd10/Projet-WEB-Fin-de-Semestre-
+    cd Projet-WEB-Fin-de-Semestre-
+    unzip gestion_seances
     ```
 
 2.  **Configuration de la Base de Données**
